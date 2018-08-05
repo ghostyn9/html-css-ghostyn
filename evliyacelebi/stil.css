@@ -1,0 +1,73 @@
+/*	*/
+.kodadi2023{
+	font-size: 50px;
+	font-family:Vladimir Script ;
+	color: purple;
+	text-align: center;	
+}
+
+/*Alttaki örnek etikete etki eder. */
+h1{
+	font-size: 25px;
+	font-family:Papyrus ;
+	color: orange;	
+
+}
+.resim{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+
+}
+p{
+	font-size: 50px;
+	font-family:Vladimir Script ;
+	color: purple;	
+}
+
+html,body{
+	background-color: purple !important;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
